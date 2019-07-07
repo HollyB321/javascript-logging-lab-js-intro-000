@@ -1,3 +1,3 @@
 console.error("HALP!")
-console.error("DO NOT KEEP DOING THAT!")
-console.error("SOMETHING BROKE!")
+console.log("DO NOT KEEP DOING THAT!")
+console.warn("SOMETHING BROKE!")
